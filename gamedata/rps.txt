@@ -1,0 +1,43 @@
+"Games"
+{
+	"tf"
+	{
+		"Keys"
+		{
+			"m_iTauntRPSResult"
+			{
+				"linux"	"8104‬"
+			}
+
+			"iReceiver"
+			{
+				"linux"	"496‬‬"
+			}
+		}
+
+		"Addresses"
+		{
+			"SetRPSResult"
+			{
+				"linux"
+				{
+					"signature"	"CTFPlayer::AcceptTauntWithPartner"
+					"offset"	"3795"
+				}
+			}
+		}
+
+		"Signatures"
+		{
+			"CTFPlayer::AcceptTauntWithPartner"
+			{
+				"linux"		"@_ZN9CTFPlayer22AcceptTauntWithPartnerEPS_"
+			}
+
+			"ENTINDEX"
+			{
+				"linux"		"@_Z8ENTINDEXP11CBaseEntity"
+			}
+		}
+	}
+}

@@ -1,0 +1,23 @@
+"Phrases"
+{
+	"Player will cheat"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} will cheat in Rock, Paper, Scissors"
+		"ru"			"{1} смухлюет в Камень, ножницы, бумага"
+	}
+
+	"Player will play fair"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} will play fair in Rock, Paper, Scissors"
+		"ru"			"{1} сыграет честно в Камень, ножницы, бумага"
+	}
+
+	"Toggled cheat for players"
+	{
+		"#format"		"{1:s}"
+		"en"			"Toggled Rock, Paper, Scissors cheat for {1}"
+		"ru"			"Нечестная игра в Камень, ножницы, бумага переключена для {1}"
+	}
+}
